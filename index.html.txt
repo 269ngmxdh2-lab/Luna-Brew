@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <title>The Luna Brew | Brand Story</title>
+   <style>
+       body { background-color: #2b1d16; color: #fdf5e6; font-family: 'Segoe UI', sans-serif; line-height: 1.6; margin: 0; display: flex; justify-content: center; align-items: center; min-height: 100vh; }
+       .container { max-width: 800px; background-color: #3d2b1f; padding: 40px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); border: 2px solid #d4833b; margin: 20px; text-align: center; }
+       img { max-width: 100%; border-radius: 10px; margin-bottom: 20px; border: 1px solid #d4833b; }
+       h1 { color: #d4833b; font-size: 2.5em; letter-spacing: 2px; text-transform: uppercase; margin-bottom: 10px; }
+       p { margin-bottom: 20px; font-size: 1.1em; text-align: justify; }
+       .founder { text-align: right; margin-top: 40px; font-weight: bold; color: #d4833b; }
+   </style>
+</head>
+<body>
+   <div class="container">
+       <img src="luna-brew-design.png" alt="The Luna Brew Brand Design">
+       <h1>The Luna Brew</h1>
+       <p>In a world that never seems to stop, there is a special kind of magic that only happens after the sun goes down. Most people see the night as a time to sleep, but for the dreamers, the thinkers, and the night owls, the moon is when the real work begins. This is the heart and soul of <strong>The Luna Brew</strong>.</p>
+       <p>The story of The Luna Brew began with a simple observation: the most brilliant ideas don't always happen in the harsh glare of the daylight. They are often born in the quiet, reflective hours of the night, when the world slows down and focus finally begins.</p>
+       <div class="founder">— Juana Mathurin, Founder</div>
+   </div>
+</body>
+</html>
